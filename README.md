@@ -494,4 +494,4 @@ User@123
 
 # Author
 
-Developed as part of Full Stack Intern Coding Challenge.
+Shreya Shahi
