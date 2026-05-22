@@ -37,7 +37,7 @@ Admin users can:
   - Name
   - Email
   - Address
-- Sort listings in ascending/descending order
+- Sort users and stores in ascending/descending order
 - View dashboard statistics:
   - Total Users
   - Total Stores
@@ -52,7 +52,7 @@ Normal users can:
 - Register an account
 - Login securely
 - Browse all stores
-- Search stores by:
+- Search and filter stores by:
   - Name
   - Address
 - Submit ratings between 1–5
@@ -441,8 +441,15 @@ http://localhost:5173
 - Forgot password feature
 - Docker deployment
 
+---
+
 # Demo Credentials
-## Note: Demo users can be added manually in the database for testing purposes.
+
+## Note:
+Demo users can be added manually in the database for testing purposes.
+
+---
+
 ## Admin Login
 
 Email:
@@ -482,6 +489,7 @@ Password:
 ```bash
 User@123
 ```
+
 ---
 
 # Author
