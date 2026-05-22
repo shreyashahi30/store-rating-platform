@@ -442,7 +442,7 @@ http://localhost:5173
 - Docker deployment
 
 # Demo Credentials
-
+## Note: Demo users can be added manually in the database for testing purposes.
 ## Admin Login
 
 Email:
