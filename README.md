@@ -441,6 +441,47 @@ http://localhost:5173
 - Forgot password feature
 - Docker deployment
 
+# Demo Credentials
+
+## Admin Login
+
+Email:
+```bash
+admin@gmail.com
+```
+
+Password:
+```bash
+Admin@123
+```
+
+---
+
+## Store Owner Login
+
+Email:
+```bash
+storeowner@gmail.com
+```
+
+Password:
+```bash
+Owner@123
+```
+
+---
+
+## Normal User Login
+
+Email:
+```bash
+user@gmail.com
+```
+
+Password:
+```bash
+User@123
+```
 ---
 
 # Author
